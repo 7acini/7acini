@@ -38,6 +38,9 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
 
+
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=7acini&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/7acini)
+
 ### 📚 Certifications and Studies
 
 <table>
@@ -59,11 +62,13 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 
 ### 🎥 Content and Projects
 
-- **GitHub Repositories:** [My GitHub](https://github.com/7acini) with projects. 
+<a href="https://app.hackthebox.com/profile/2102425" target="_blank">
+  <img src="https://www.hackthebox.com/badge/image/2102425" alt="Hack The Box"/>
+</a>
 
 ### 📫 Contact
 
-<div align="center"> 
+<div> 
   <a href="https://linkedin.com/in/guilherme-facini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:guifacini07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:7acini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
