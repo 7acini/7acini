@@ -38,9 +38,6 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
 
-
-[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=7acini&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/7acini)
-
 ### 📚 Certifications and Studies
 
 <table>
