@@ -60,7 +60,10 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 ### 🎥 Content and Projects
 
 <a href="https://app.hackthebox.com/profile/2102425" target="_blank">
-  <img src="https://www.hackthebox.com/badge/image/2102425" alt="Hack The Box"/>
+  <img src="https://www.hackthebox.com/badge/image/2102425" alt="Hack The Box" width="30%"/>
+</a>
+<a href="https://tryhackme.com/p/7acini">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/7acini.png" alt="Your Image Badge" width="27%"/>
 </a>
 
 ### 📫 Contact
