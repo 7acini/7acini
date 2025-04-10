@@ -54,6 +54,10 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
         <img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" width="40" height="40"/><br>
         <b>C3SA</b>
     </td>
+        <td align="center">
+        <img src="https://images.credly.com/size/340x340/images/3457dada-1fd4-4c7a-a73b-da1a85832c76/blob" width="40" height="40"/><br>
+        <b>ACP</b>
+    </td>
   </tr>
 </table>
 
@@ -61,9 +65,6 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 
 <a href="https://app.hackthebox.com/profile/2102425" target="_blank">
   <img src="https://www.hackthebox.com/badge/image/2102425" alt="Hack The Box" width="30%"/>
-</a>
-<a href="https://tryhackme.com/p/7acini">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/7acini.png" alt="Your Image Badge" width="27%"/>
 </a>
 
 ### 📫 Contact
