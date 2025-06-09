@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p align="right">
 <tr><td valign="top" width="50%">
 
-I am an **Security | IT Analyst** focused on information security and vulnerability exploitation. I study Computer Science at **Anhanguera University** and am currently working on projects involving test automation and the development of security tools in Python. I have hands-on experience solving **CTFs** and implementing and managing secure infrastructures, including firewalls, networks, and data backups.
+I am an **Developer** focused on AppSec and information security. I study Computer Science at **Anhanguera University** and am currently working on projects involving test automation, development of security tools in Go/Python and create applications and CTF's in PHP. I have hands-on experience solving **CTFs** and implementing and managing secure infrastructures, including firewalls, networks, and data backups.
 
-In my free time, I enjoy learning new vulnerability exploitation techniques, developing Python scripts, and gaming with the community. Feel free to reach out to exchange ideas, collaborate on projects, or just chat about information security! 🚀
+In my free time, I enjoy learning new vulnerability exploitation techniques, developing Go/Python scripts, and gaming with the community. Feel free to reach out to exchange ideas, collaborate on projects, or just chat about information security! 🚀
 
 <div align="center"> 
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="Gif of a person programming on a computer" width="200">
