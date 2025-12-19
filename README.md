@@ -43,20 +43,16 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 <table>
   <tr>
     <td align="center">
-        <img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" width="40" height="40"/><br>
-        <b>SYCP</b>
+        <img src="https://academy.hackthebox.com/storage/exam_badges/OHKlaJqQ2745gMfWdXJA1zCE5ExAWK4esXugwMxh.png" width="40" height="40"/><br>
+        <b>CJCA</b>
     </td>
     <td align="center">
-        <img src="https://cyberwarfare.live/wp-content/uploads/2023/05/CRTA-1024x1024.png" width="40" height="40"/><br>
-        <b>CRTA</b>
+        <img src="https://academy.hackthebox.com/storage/exam_badges/ocO4em7oa7zpInAA4aUCLFyQU6AZ2GqdPFqoPWRw.png" width="40" height="40"/><br>
+        <b>CWES</b>
     </td>
     <td align="center">
-        <img src="https://cyberwarfare.live/wp-content/uploads/2023/04/C3SA-01-1-1.png" width="40" height="40"/><br>
-        <b>C3SA</b>
-    </td>
-        <td align="center">
-        <img src="https://images.credly.com/size/340x340/images/3457dada-1fd4-4c7a-a73b-da1a85832c76/blob" width="40" height="40"/><br>
-        <b>ACP</b>
+        <img src="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png" width="40" height="40"/><br>
+        <b>CPTS</b>
     </td>
   </tr>
 </table>
