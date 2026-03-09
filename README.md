@@ -43,10 +43,6 @@ In my free time, I enjoy learning new vulnerability exploitation techniques, dev
 <table>
   <tr>
     <td align="center">
-        <img src="https://academy.hackthebox.com/storage/exam_badges/OHKlaJqQ2745gMfWdXJA1zCE5ExAWK4esXugwMxh.png" width="40" height="40"/><br>
-        <b>CJCA</b>
-    </td>
-    <td align="center">
         <img src="https://academy.hackthebox.com/storage/exam_badges/ocO4em7oa7zpInAA4aUCLFyQU6AZ2GqdPFqoPWRw.png" width="40" height="40"/><br>
         <b>CWES</b>
     </td>
