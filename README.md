@@ -1,70 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**7acini/7acini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Guilherme Facini
 
-Here are some ideas to get you started:
+**Founder @ Kuro Security · Application Security Analyst · Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Guilherme Facini (@7acini)
+I build applications, investigate how they break, and turn findings into fixes.
 
-Developer | DevSecOps Analyst (AppSec)
+[![Kuro Security](https://img.shields.io/badge/Kuro_Security-111111?style=for-the-badge)](https://kurosecurity.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/guilherme-facini/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7acini@gmail.com)
 
-I build secure applications and break insecure ones.
-
-My work sits at the intersection of development and offensive security, understanding how systems are built, and how they break in real-world scenarios.
-
-Focused on web applications, security tooling, and Linux-based environments.
-
-<div align="center"> 
-  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="Gif of a person programming on a computer" width="200">
 </div>
 
 ---
 
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/7acini/views.svg"> <a href="https://github.com/7acini"><img src="https://img.shields.io/github/followers/7acini?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
+## About me
 
-### Research & Contributions
+I'm a software developer and application security analyst from Brazil, and the founder of **[Kuro Security](https://kurosecurity.com.br/)**.
 
-Selected vulnerability research, Proof of Concepts (PoC), and open-source tooling.
+My work connects software development with offensive security: reading code, testing assumptions, reproducing vulnerabilities, and helping developers address their root causes.
 
-#### Security Research & Exploitation
-* [**CVE-2025-2304**](https://github.com/7acini/CVE-2025-2304-CamaleonCMS-PoC)
-* [**CVE-2024-41570**](https://github.com/7acini/Havoc-C2-SSRF-poc)
+I'm especially interested in authorization flaws, business logic vulnerabilities, and the gap between how an application is designed and how it actually behaves.
 
-#### Open Source & Tooling
-* [**Omakub**](https://github.com/basecamp/omakub) – Contributor to DHH's automated Ubuntu setup for web developers. Focused on environment optimization and tool integration.
-* [**Omakub-MJ**](https://github.com/7acini/omakub-mj) – Fabio Akita's fork for Arch Linux-based distributions.
-* [**br-acc**](https://github.com/7acini/br-acc) – br/acc is a decentralized movement of Brazilian builders using technology and open data to make public information more accessible.
+- **Application security:** web and API testing, secure code review, and remediation.
+- **Security research:** vulnerability analysis, reproducible proofs of concept, and responsible disclosure.
+- **Software development:** building applications and practical security tools.
+- **DevSecOps:** bringing security into development workflows and Linux environments.
 
-### Certifications
+## Kuro Security
 
-<table>
-  <tr>
-    <td align="center">
-        <img src="https://academy.hackthebox.com/storage/exam_badges/ocO4em7oa7zpInAA4aUCLFyQU6AZ2GqdPFqoPWRw.png" width="40" height="40"/><br>
-        <b>CWES</b>
-    </td>
-  </tr>
-</table>
+At **Kuro Security**, I work on pentesting, Red Team, and AppSec, with a focus on clear evidence, practical impact, and actionable remediation.
 
-### Platforms
+> A falha já existe. A gente chega antes.
 
-<a href="https://app.hackthebox.com/profile/2102425" target="_blank">
-  <img src="https://www.hackthebox.com/badge/image/2102425" alt="Hack The Box" width="30%"/>
-</a>
+[Explore Kuro Security →](https://kurosecurity.com.br/)
 
-<div> 
-  <a href="https://linkedin.com/in/guilherme-facini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:7acini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Security research
+
+### Original research
+
+**[CVE-2026-102261 — Camaleon CMS authorization bypass](https://github.com/7acini/CVE-2026-102261)**
+
+I identified an authorization flaw in the media crop workflow that allowed an authenticated user with media management permissions to modify another user's avatar through the `saved_avatar` parameter.
+
+The repository includes a non-destructive checker for the authorization control introduced in version 2.9.3.
+
+### Selected PoCs
+
+Reproductions and technical explorations of publicly disclosed vulnerabilities. Original discovery credit belongs to the respective researchers.
+
+| Repository | Focus |
+| --- | --- |
+| [CVE-2025-2304](https://github.com/7acini/CVE-2025-2304-CamaleonCMS-PoC) | Camaleon CMS vulnerability PoC |
+| [CVE-2024-41570](https://github.com/7acini/Havoc-C2-SSRF-poc) | Havoc C2 SSRF PoC |
+
+## Security tools
+
+| Project | What it does |
+| --- | --- |
+| [**minimal-waf**](https://github.com/7acini/minimal-waf) | An HTTP reverse proxy written in Go that inspects requests, with monitoring and blocking modes. |
+
+## Open source
+
+- **[Omakub](https://github.com/basecamp/omakub)** — Contributions to the Ubuntu development environment setup.
+- **[br-acc](https://github.com/7acini/br-acc)** — Open data and technology for making Brazilian public information more accessible.
+
+## Let's connect
+
+For AppSec work, security research, or open-source collaboration:
+
+**[Kuro Security](https://kurosecurity.com.br/)** · **[LinkedIn](https://www.linkedin.com/in/guilherme-facini/)** · **[7acini@gmail.com](mailto:7acini@gmail.com)**
+
